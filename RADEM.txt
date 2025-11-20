@@ -1,5 +1,0 @@
-1. Substitua 'SEU_ID_DE_PLANILHA' no script.js e no formulário pelo ID da sua planilha Sheet.best.
-2. Hospede o pacote em GitHub Pages, Netlify ou Vercel.
-3. Teste QR Code Pix e carrinho antes de divulgar.
-4. Personalize cores e textos no style.css se desejar.
-5. Adicione ou remova produtos diretamente no index.html.
